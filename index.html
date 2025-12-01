@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Kasatria 3D Assignment</title>
+  <link rel="stylesheet" href="style.css" />
+
+  <!-- Google Identity Services -->
+  <script src="https://accounts.google.com/gsi/client" async defer></script>
+
+  <!-- Three.js r110 + CSS3DRenderer + TrackballControls + Tween -->
+  <script src="https://unpkg.com/three@0.110.0/build/three.min.js"></script>
+  <script src="https://unpkg.com/three@0.110.0/examples/js/renderers/CSS3DRenderer.js"></script>
+  <script src="https://unpkg.com/three@0.110.0/examples/js/controls/TrackballControls.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/tween.js/18.6.4/tween.umd.js"></script>
+</head>
+
+<body>
+  <!-- Login card -->
+  <div id="login-card">
+    <div class="card">
+      <h2>Welcome Back</h2>
+      <p>Please sign in with your Google account to continue.</p>
+
+      <!-- Google Identity button -->
+      <div id="g_id_onload"
+           data-client_id="600565355330-b0f24f0ig0hu4351op7g2c7d1dvcuh4m.apps.googleusercontent.com"
+           data-context="signin"
+           data-ux_mode="popup"
+           data-callback="handleCredentialResponse">
+      </div>
+
+      <div class="g_id_signin"
+           data-type="standard"
+           data-shape="rectangular"
+           data-theme="outline"
+           data-text="signin_with"
+           data-size="large"
+           data-logo_alignment="center">
+      </div>
+    </div>
+  </div>
+
+  <!-- 3D app area -->
+  <div id="app" style="display:none;"></div>
+
+  <script src="main.js"></script>
+</body>
+</html>

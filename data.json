@@ -1,0 +1,1602 @@
+[
+  {
+    "Name": "Lee Siew Suan",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/019.jpg",
+    "Age": "25",
+    "Country": "CN",
+    "Interest": "Writing",
+    "Net Worth": "$251,260.80"
+  },
+  {
+    "Name": "New Yee Chian",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/020.jpg",
+    "Age": "23",
+    "Country": "CN",
+    "Interest": "Cooking",
+    "Net Worth": "$60,393.60"
+  },
+  {
+    "Name": "Wong Thiam Fook",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/021.jpg",
+    "Age": "30",
+    "Country": "CN",
+    "Interest": "Traveling",
+    "Net Worth": "$212,140.80"
+  },
+  {
+    "Name": "Norsuzilawati Mohd Noor",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/022.jpg",
+    "Age": "30",
+    "Country": "MY",
+    "Interest": "Painting",
+    "Net Worth": "$208,228.80"
+  },
+  {
+    "Name": "Norzainah Omar",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/023.jpg",
+    "Age": "30",
+    "Country": "MY",
+    "Interest": "Hiking",
+    "Net Worth": "$106,555.20"
+  },
+  {
+    "Name": "Meghandran Nathy",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/024.jpg",
+    "Age": "31",
+    "Country": "IN",
+    "Interest": "Cooking",
+    "Net Worth": "$139,080.00"
+  },
+  {
+    "Name": "Joyshree Goswami",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/025.jpg",
+    "Age": "35",
+    "Country": "IN",
+    "Interest": "Painting",
+    "Net Worth": "$192,278.40"
+  },
+  {
+    "Name": "Geetha Maniam",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/026.jpg",
+    "Age": "27",
+    "Country": "IN",
+    "Interest": "Cooking",
+    "Net Worth": "$90,864.00"
+  },
+  {
+    "Name": "Abdul Rahim Osman",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/027.jpg",
+    "Age": "30",
+    "Country": "MY",
+    "Interest": "Cooking",
+    "Net Worth": "$141,859.20"
+  },
+  {
+    "Name": "Prem Anand Raj",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/028.jpg",
+    "Age": "44",
+    "Country": "IN",
+    "Interest": "Gardening",
+    "Net Worth": "$196,113.60"
+  },
+  {
+    "Name": "Piara Singh Sarwan Singh",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/029.jpg",
+    "Age": "34",
+    "Country": "IN",
+    "Interest": "Writing",
+    "Net Worth": "$207,960.00"
+  },
+  {
+    "Name": "Othman b Abdul Rahman",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/030.jpg",
+    "Age": "53",
+    "Country": "MY",
+    "Interest": "Gardening",
+    "Net Worth": "$193,200.00"
+  },
+  {
+    "Name": "Sathiaseelan Paul Thurai",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/031.jpg",
+    "Age": "59",
+    "Country": "IN",
+    "Interest": "Gardening",
+    "Net Worth": "$264,456.00"
+  },
+  {
+    "Name": "Abdul Farid Alias",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/MY0014.jpg",
+    "Age": "36",
+    "Country": "MY",
+    "Interest": "Writing",
+    "Net Worth": "$146,592.00"
+  },
+  {
+    "Name": "Abu Hassan Assari Ibrahim",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/MY0010.jpg",
+    "Age": "43",
+    "Country": "MY",
+    "Interest": "Gardening",
+    "Net Worth": "$213,657.60"
+  },
+  {
+    "Name": "Faridah Ahmad Iskandar",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/MY_003.jpg",
+    "Age": "31",
+    "Country": "MY",
+    "Interest": "Writing",
+    "Net Worth": "$271,516.80"
+  },
+  {
+    "Name": "Muzaffar Hisham",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/MY0009.jpg",
+    "Age": "35",
+    "Country": "MY",
+    "Interest": "Cooking",
+    "Net Worth": "$230,980.80"
+  },
+  {
+    "Name": "Isaac Cardinal",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/CA0088.jpg",
+    "Age": "49",
+    "Country": "US",
+    "Interest": "Gardening",
+    "Net Worth": "$259,252.80"
+  },
+  {
+    "Name": "Prabunathan A/L Gopal",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/IND_021.jpg",
+    "Age": "29",
+    "Country": "IN",
+    "Interest": "Writing",
+    "Net Worth": "$271,670.40"
+  },
+  {
+    "Name": "Taswin Zakaria",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/MY0012.jpg",
+    "Age": "41",
+    "Country": "MY",
+    "Interest": "Gardening",
+    "Net Worth": "$243,840.00"
+  },
+  {
+    "Name": "Crystal Carter",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/039.jpg",
+    "Age": "35",
+    "Country": "US",
+    "Interest": "Cooking",
+    "Net Worth": "$211,550.40"
+  },
+  {
+    "Name": "Vivian Grapentine",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/040.jpg",
+    "Age": "36",
+    "Country": "CN",
+    "Interest": "Writing",
+    "Net Worth": "$149,361.60"
+  },
+  {
+    "Name": "Joey De Leion",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/041.jpg",
+    "Age": "35",
+    "Country": "US",
+    "Interest": "Hiking",
+    "Net Worth": "$60,974.40"
+  },
+  {
+    "Name": "Mark Feehily",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/042.jpg",
+    "Age": "30",
+    "Country": "US",
+    "Interest": "Cooking",
+    "Net Worth": "$125,496.00"
+  },
+  {
+    "Name": "Cheong Choong Kong",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/114.jpg",
+    "Age": "25",
+    "Country": "CN",
+    "Interest": "Painting",
+    "Net Worth": "$111,412.80"
+  },
+  {
+    "Name": "George Lee Lap Wah",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/115.jpg",
+    "Age": "31",
+    "Country": "CN",
+    "Interest": "Painting",
+    "Net Worth": "$146,174.40"
+  },
+  {
+    "Name": "Yong Mei Theng",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/116.jpg",
+    "Age": "28",
+    "Country": "CN",
+    "Interest": "Writing",
+    "Net Worth": "$187,896.00"
+  },
+  {
+    "Name": "Tang Zhee Kim",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/117.jpg",
+    "Age": "24",
+    "Country": "CN",
+    "Interest": "Painting",
+    "Net Worth": "$264,355.20"
+  },
+  {
+    "Name": "Tan Miaw Wei",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/118.jpg",
+    "Age": "25",
+    "Country": "CN",
+    "Interest": "Cooking",
+    "Net Worth": "$101,841.60"
+  },
+  {
+    "Name": "Cheng Ming Soon",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/119.jpg",
+    "Age": "18",
+    "Country": "CN",
+    "Interest": "Traveling",
+    "Net Worth": "$210,835.20"
+  },
+  {
+    "Name": "Lee Fong Fong",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/120.jpg",
+    "Age": "25",
+    "Country": "CN",
+    "Interest": "Painting",
+    "Net Worth": "$193,017.60"
+  },
+  {
+    "Name": "Amir Amran Karim",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/121.jpg",
+    "Age": "29",
+    "Country": "MY",
+    "Interest": "Cooking",
+    "Net Worth": "$147,600.00"
+  },
+  {
+    "Name": "Krishnan CK Menon",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/122.jpg",
+    "Age": "25",
+    "Country": "IN",
+    "Interest": "Cooking",
+    "Net Worth": "$207,355.20"
+  },
+  {
+    "Name": "Aishwarya Rai",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/IND_041.jpg",
+    "Age": "32",
+    "Country": "IN",
+    "Interest": "Hiking",
+    "Net Worth": "$186,398.40"
+  },
+  {
+    "Name": "Simone Kumar Gopalan",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/124.jpg",
+    "Age": "36",
+    "Country": "IN",
+    "Interest": "Hiking",
+    "Net Worth": "$327,057.60"
+  },
+  {
+    "Name": "Maimoonah Hussain",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/125.jpg",
+    "Age": "27",
+    "Country": "MY",
+    "Interest": "Cooking",
+    "Net Worth": "$181,228.80"
+  },
+  {
+    "Name": "Chanda Kochar",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/126.jpg",
+    "Age": "30",
+    "Country": "IN",
+    "Interest": "Hiking",
+    "Net Worth": "$133,228.80"
+  },
+  {
+    "Name": "Shyamala Gopinath",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/127.jpg",
+    "Age": "20",
+    "Country": "IN",
+    "Interest": "Traveling",
+    "Net Worth": "$267,230.40"
+  },
+  {
+    "Name": "Suren Zedek",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/128.jpg",
+    "Age": "35",
+    "Country": "IN",
+    "Interest": "Writing",
+    "Net Worth": "$89,764.80"
+  },
+  {
+    "Name": "Danial Kuilan",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/129.jpg",
+    "Age": "35",
+    "Country": "IN",
+    "Interest": "Writing",
+    "Net Worth": "$246,686.40"
+  },
+  {
+    "Name": "Levi Asher Anamalai",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/130.jpg",
+    "Age": "19",
+    "Country": "IN",
+    "Interest": "Traveling",
+    "Net Worth": "$170,260.80"
+  },
+  {
+    "Name": "Tristan Martin",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/131.jpg",
+    "Age": "52",
+    "Country": "US",
+    "Interest": "Gardening",
+    "Net Worth": "$181,555.20"
+  },
+  {
+    "Name": "David Conner",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/CA0294.jpg",
+    "Age": "55",
+    "Country": "US",
+    "Interest": "Gardening",
+    "Net Worth": "$282,019.20"
+  },
+  {
+    "Name": "Kerry Jen Katona",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/CA0285.jpg",
+    "Age": "43",
+    "Country": "US",
+    "Interest": "Gardening",
+    "Net Worth": "$250,579.20"
+  },
+  {
+    "Name": "Gilbert Kohnke",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/134.jpg",
+    "Age": "55",
+    "Country": "US",
+    "Interest": "Gardening",
+    "Net Worth": "$344,318.40"
+  },
+  {
+    "Name": "Spencer Murray",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/135.jpg",
+    "Age": "52",
+    "Country": "US",
+    "Interest": "Gardening",
+    "Net Worth": "$240,638.40"
+  },
+  {
+    "Name": "Yaacob Mohd Zain",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/136.jpg",
+    "Age": "24",
+    "Country": "MY",
+    "Interest": "Hiking",
+    "Net Worth": "$205,372.80"
+  },
+  {
+    "Name": "Hatini Mat Husin",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/137.jpg",
+    "Age": "28",
+    "Country": "MY",
+    "Interest": "Hiking",
+    "Net Worth": "$350,774.40"
+  },
+  {
+    "Name": "Ariffin Alias",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/138.jpg",
+    "Age": "28",
+    "Country": "MY",
+    "Interest": "Writing",
+    "Net Worth": "$241,670.40"
+  },
+  {
+    "Name": "Abdul Malik A Rahman",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/139.jpg",
+    "Age": "42",
+    "Country": "MY",
+    "Interest": "Gardening",
+    "Net Worth": "$197,779.20"
+  },
+  {
+    "Name": "Samad Mahid Zain",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/140.jpg",
+    "Age": "30",
+    "Country": "MY",
+    "Interest": "Hiking",
+    "Net Worth": "$245,827.20"
+  },
+  {
+    "Name": "Johan Hashim",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/141.jpg",
+    "Age": "34",
+    "Country": "MY",
+    "Interest": "Cooking",
+    "Net Worth": "$184,915.20"
+  },
+  {
+    "Name": "Samsiah Zainal",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/142.jpg",
+    "Age": "28",
+    "Country": "MY",
+    "Interest": "Painting",
+    "Net Worth": "$259,180.80"
+  },
+  {
+    "Name": "Tay Eng Yaw",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/009.jpg",
+    "Age": "27",
+    "Country": "CN",
+    "Interest": "Cooking",
+    "Net Worth": "$188,457.60"
+  },
+  {
+    "Name": "Cynthiea Hong Pei Min",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/010.jpg",
+    "Age": "22",
+    "Country": "CN",
+    "Interest": "Painting",
+    "Net Worth": "$164,865.60"
+  },
+  {
+    "Name": "Lim Yong Siang",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/011.jpg",
+    "Age": "40",
+    "Country": "CN",
+    "Interest": "Gardening",
+    "Net Worth": "$347,481.60"
+  },
+  {
+    "Name": "Mohd Azam Mohd Bakar",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/018.jpg",
+    "Age": "38",
+    "Country": "MY",
+    "Interest": "Cooking",
+    "Net Worth": "$166,795.20"
+  },
+  {
+    "Name": "Jagathesan Shanmugam",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/043.jpg",
+    "Age": "43",
+    "Country": "IN",
+    "Interest": "Gardening",
+    "Net Worth": "$97,075.20"
+  },
+  {
+    "Name": "Christiana Tharsis",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/044.jpg",
+    "Age": "35",
+    "Country": "IN",
+    "Interest": "Hiking",
+    "Net Worth": "$243,014.40"
+  },
+  {
+    "Name": "Amutha Rakwan",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/045.jpg",
+    "Age": "46",
+    "Country": "IN",
+    "Interest": "Gardening",
+    "Net Worth": "$100,396.80"
+  },
+  {
+    "Name": "Wan Rosmawati Wan Ibrahim",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/046.jpg",
+    "Age": "34",
+    "Country": "MY",
+    "Interest": "Cooking",
+    "Net Worth": "$191,616.00"
+  },
+  {
+    "Name": "Khatimah Mahadi",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/047.jpg",
+    "Age": "29",
+    "Country": "MY",
+    "Interest": "Painting",
+    "Net Worth": "$265,171.20"
+  },
+  {
+    "Name": "Nor Rozita Nordin",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/048.jpg",
+    "Age": "32",
+    "Country": "MY",
+    "Interest": "Painting",
+    "Net Worth": "$246,158.40"
+  },
+  {
+    "Name": "Abdul Aziz Man",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/049.jpg",
+    "Age": "32",
+    "Country": "MY",
+    "Interest": "Cooking",
+    "Net Worth": "$312,158.40"
+  },
+  {
+    "Name": "Nimma Safira Khalid",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/050.jpg",
+    "Age": "19",
+    "Country": "MY",
+    "Interest": "Traveling",
+    "Net Worth": "$258,384.00"
+  },
+  {
+    "Name": "Lam Swee Kim",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/012.jpg",
+    "Age": "23",
+    "Country": "CN",
+    "Interest": "Painting",
+    "Net Worth": "$148,718.40"
+  },
+  {
+    "Name": "Tai Yee Shian",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/013.jpg",
+    "Age": "34",
+    "Country": "CN",
+    "Interest": "Painting",
+    "Net Worth": "$195,206.40"
+  },
+  {
+    "Name": "Euodia Ooi",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/014.jpg",
+    "Age": "27",
+    "Country": "CN",
+    "Interest": "Writing",
+    "Net Worth": "$52,118.40"
+  },
+  {
+    "Name": "Ng Jia Nian",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/015.jpg",
+    "Age": "24",
+    "Country": "CN",
+    "Interest": "Cooking",
+    "Net Worth": "$340,464.00"
+  },
+  {
+    "Name": "Ong Tze Jun",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/016.jpg",
+    "Age": "36",
+    "Country": "CN",
+    "Interest": "Hiking",
+    "Net Worth": "$159,739.20"
+  },
+  {
+    "Name": "Brian Choong Chee Keong",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/017.jpg",
+    "Age": "21",
+    "Country": "CN",
+    "Interest": "Traveling",
+    "Net Worth": "$347,659.20"
+  },
+  {
+    "Name": "Shaharuddin Abg Mansor",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/086.jpg",
+    "Age": "47",
+    "Country": "MY",
+    "Interest": "Gardening",
+    "Net Worth": "$351,993.60"
+  },
+  {
+    "Name": "Mohd Izani Ashari",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/087.jpg",
+    "Age": "30",
+    "Country": "MY",
+    "Interest": "Traveling",
+    "Net Worth": "$230,179.20"
+  },
+  {
+    "Name": "Roshan Thiran",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/088.jpg",
+    "Age": "26",
+    "Country": "MY",
+    "Interest": "Cooking",
+    "Net Worth": "$369,652.80"
+  },
+  {
+    "Name": "Shahazwan Harris",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/089.jpg",
+    "Age": "30",
+    "Country": "MY",
+    "Interest": "Painting",
+    "Net Worth": "$364,948.80"
+  },
+  {
+    "Name": "Saiful Dzulkifly",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/090.jpg",
+    "Age": "36",
+    "Country": "MY",
+    "Interest": "Painting",
+    "Net Worth": "$360,115.20"
+  },
+  {
+    "Name": "Jamie Haniff Ramlee",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/091.jpg",
+    "Age": "47",
+    "Country": "MY",
+    "Interest": "Gardening",
+    "Net Worth": "$174,312.00"
+  },
+  {
+    "Name": "Azim Azli",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/092.jpg",
+    "Age": "50",
+    "Country": "MY",
+    "Interest": "Gardening",
+    "Net Worth": "$160,252.80"
+  },
+  {
+    "Name": "Zaida Khalida Shaari",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/093.jpg",
+    "Age": "25",
+    "Country": "MY",
+    "Interest": "Cooking",
+    "Net Worth": "$163,104.00"
+  },
+  {
+    "Name": "Nurul Nabila Huda Che Ad",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/094.jpg",
+    "Age": "39",
+    "Country": "MY",
+    "Interest": "Hiking",
+    "Net Worth": "$247,579.20"
+  },
+  {
+    "Name": "Sarimah Samad-Imran",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/095.jpg",
+    "Age": "29",
+    "Country": "MY",
+    "Interest": "Painting",
+    "Net Worth": "$102,580.80"
+  },
+  {
+    "Name": "Wan Nur Nordiyana",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/096.jpg",
+    "Age": "25",
+    "Country": "MY",
+    "Interest": "Cooking",
+    "Net Worth": "$264,705.60"
+  },
+  {
+    "Name": "Fatimah Husna",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/097.jpg",
+    "Age": "25",
+    "Country": "MY",
+    "Interest": "Writing",
+    "Net Worth": "$72,710.40"
+  },
+  {
+    "Name": "Nurshafiqah Saad",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/098.jpg",
+    "Age": "30",
+    "Country": "MY",
+    "Interest": "Cooking",
+    "Net Worth": "$128,750.40"
+  },
+  {
+    "Name": "Amerjit Singh Bhag Singh",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/IND_005.jpg",
+    "Age": "31",
+    "Country": "IN",
+    "Interest": "Writing",
+    "Net Worth": "$205,171.20"
+  },
+  {
+    "Name": "Nora Abd Manaf",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/100.jpg",
+    "Age": "29",
+    "Country": "MY",
+    "Interest": "Writing",
+    "Net Worth": "$168,096.00"
+  },
+  {
+    "Name": "Walter Michael Chan",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/101.jpg",
+    "Age": "29",
+    "Country": "CN",
+    "Interest": "Cooking",
+    "Net Worth": "$197,083.20"
+  },
+  {
+    "Name": "Teng Chean Choy",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/102.jpg",
+    "Age": "32",
+    "Country": "CN",
+    "Interest": "Cooking",
+    "Net Worth": "$145,862.40"
+  },
+  {
+    "Name": "Chua Bee Chin",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/103.jpg",
+    "Age": "23",
+    "Country": "CN",
+    "Interest": "Painting",
+    "Net Worth": "$159,883.20"
+  },
+  {
+    "Name": "Santhanamary John",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/155.jpg",
+    "Age": "25",
+    "Country": "IN",
+    "Interest": "Writing",
+    "Net Worth": "$135,878.40"
+  },
+  {
+    "Name": "Nor Arzlin Redzwan",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/156.jpg",
+    "Age": "42",
+    "Country": "MY",
+    "Interest": "Gardening",
+    "Net Worth": "$66,907.20"
+  },
+  {
+    "Name": "Zuraidah Atan",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/157.jpg",
+    "Age": "28",
+    "Country": "MY",
+    "Interest": "Cooking",
+    "Net Worth": "$104,649.60"
+  },
+  {
+    "Name": "Shahrul Izzan Abdul Karim",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/158.jpg",
+    "Age": "29",
+    "Country": "MY",
+    "Interest": "Traveling",
+    "Net Worth": "$46,363.20"
+  },
+  {
+    "Name": "Putri Shireen Syed Othman",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/m_047.jpg",
+    "Age": "33",
+    "Country": "MY",
+    "Interest": "Painting",
+    "Net Worth": "$96,628.80"
+  },
+  {
+    "Name": "Abdul Hadzi Marzuki",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/160.jpg",
+    "Age": "34",
+    "Country": "MY",
+    "Interest": "Writing",
+    "Net Worth": "$117,273.60"
+  },
+  {
+    "Name": "Yasmin Ahmad",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/161.jpg",
+    "Age": "24",
+    "Country": "MY",
+    "Interest": "Painting",
+    "Net Worth": "$58,833.60"
+  },
+  {
+    "Name": "Halipah Binti Esa",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/162.jpg",
+    "Age": "29",
+    "Country": "MY",
+    "Interest": "Traveling",
+    "Net Worth": "$102,676.80"
+  },
+  {
+    "Name": "Habibah Abdul",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/163.jpg",
+    "Age": "37",
+    "Country": "MY",
+    "Interest": "Painting",
+    "Net Worth": "$210,993.60"
+  },
+  {
+    "Name": "Zulkarnain Ahmad",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/164.jpg",
+    "Age": "34",
+    "Country": "MY",
+    "Interest": "Writing",
+    "Net Worth": "$71,361.60"
+  },
+  {
+    "Name": "Fauziah Mohd Noor",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/165.jpg",
+    "Age": "24",
+    "Country": "MY",
+    "Interest": "Painting",
+    "Net Worth": "$126,532.80"
+  },
+  {
+    "Name": "Mohd Yunus Idris",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/196.jpg",
+    "Age": "39",
+    "Country": "MY",
+    "Interest": "Writing",
+    "Net Worth": "$143,112.00"
+  },
+  {
+    "Name": "Ahmad Jauhari Yahya",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/197.jpg",
+    "Age": "21",
+    "Country": "MY",
+    "Interest": "Traveling",
+    "Net Worth": "$159,422.40"
+  },
+  {
+    "Name": "Saifol Bahri Mohamad Shamlan",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/198.jpg",
+    "Age": "34",
+    "Country": "MY",
+    "Interest": "Writing",
+    "Net Worth": "$198,936.00"
+  },
+  {
+    "Name": "Isham Ishak",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/199.jpg",
+    "Age": "40",
+    "Country": "MY",
+    "Interest": "Gardening",
+    "Net Worth": "$112,598.40"
+  },
+  {
+    "Name": "Mohd Hafizuddin Mansor",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/200.jpg",
+    "Age": "34",
+    "Country": "MY",
+    "Interest": "Hiking",
+    "Net Worth": "$99,624.00"
+  },
+  {
+    "Name": "Stuart Cardell",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/CA0292.jpg",
+    "Age": "44",
+    "Country": "US",
+    "Interest": "Gardening",
+    "Net Worth": "$44,140.80"
+  },
+  {
+    "Name": "Abigail Wellington",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/CA0237.jpg",
+    "Age": "33",
+    "Country": "US",
+    "Interest": "Painting",
+    "Net Worth": "$126,201.60"
+  },
+  {
+    "Name": "Gino Chin",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/c_035.jpg",
+    "Age": "33",
+    "Country": "CN",
+    "Interest": "Cooking",
+    "Net Worth": "$178,569.60"
+  },
+  {
+    "Name": "Meon Khor",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/c_016.jpg",
+    "Age": "37",
+    "Country": "CN",
+    "Interest": "Writing",
+    "Net Worth": "$132,936.00"
+  },
+  {
+    "Name": "Lim Joo ann",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/c_013.jpg",
+    "Age": "30",
+    "Country": "CN",
+    "Interest": "Writing",
+    "Net Worth": "$183,110.40"
+  },
+  {
+    "Name": "Yong Hai Wen",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/CN_038.jpg",
+    "Age": "19",
+    "Country": "CN",
+    "Interest": "Traveling",
+    "Net Worth": "$259,123.20"
+  },
+  {
+    "Name": "Yuki Low Mei Shan",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/CN_024.jpg",
+    "Age": "28",
+    "Country": "CN",
+    "Interest": "Hiking",
+    "Net Worth": "$191,016.00"
+  },
+  {
+    "Name": "Jessica Tee Yan Lai",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/J_013.jpg",
+    "Age": "36",
+    "Country": "CN",
+    "Interest": "Hiking",
+    "Net Worth": "$152,433.60"
+  },
+  {
+    "Name": "Sam Yam",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/J_003.jpg",
+    "Age": "29",
+    "Country": "CN",
+    "Interest": "Cooking",
+    "Net Worth": "$57,499.20"
+  },
+  {
+    "Name": "Shanker Jorrama",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/IND_057.jpg",
+    "Age": "36",
+    "Country": "IN",
+    "Interest": "Writing",
+    "Net Worth": "$220,142.40"
+  },
+  {
+    "Name": "Vick Viknes",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/IND_010.jpg",
+    "Age": "21",
+    "Country": "IN",
+    "Interest": "Painting",
+    "Net Worth": "$267,307.20"
+  },
+  {
+    "Name": "Arul Krishnan",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/IND_035.jpg",
+    "Age": "35",
+    "Country": "IN",
+    "Interest": "Hiking",
+    "Net Worth": "$69,883.20"
+  },
+  {
+    "Name": "Shamini Mohanan",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/IND_014.jpg",
+    "Age": "28",
+    "Country": "IN",
+    "Interest": "Writing",
+    "Net Worth": "$363,681.60"
+  },
+  {
+    "Name": "Theodore Frazer",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/o_009.jpg",
+    "Age": "49",
+    "Country": "US",
+    "Interest": "Gardening",
+    "Net Worth": "$361,166.40"
+  },
+  {
+    "Name": "Aju Varghese",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/IND_028.jpg",
+    "Age": "43",
+    "Country": "IN",
+    "Interest": "Gardening",
+    "Net Worth": "$324,686.40"
+  },
+  {
+    "Name": "Shahrukh Khan",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/IND_032.jpg",
+    "Age": "40",
+    "Country": "IN",
+    "Interest": "Gardening",
+    "Net Worth": "$287,155.20"
+  },
+  {
+    "Name": "Prithviraj Sukumaran",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/IND_040.jpg",
+    "Age": "50",
+    "Country": "IN",
+    "Interest": "Gardening",
+    "Net Worth": "$363,739.20"
+  },
+  {
+    "Name": "Sarah Miller",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/CA0134.jpg",
+    "Age": "32",
+    "Country": "US",
+    "Interest": "Painting",
+    "Net Worth": "$101,832.00"
+  },
+  {
+    "Name": "Monali Thakur",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/IND_016.jpg",
+    "Age": "29",
+    "Country": "IN",
+    "Interest": "Painting",
+    "Net Worth": "$162,710.40"
+  },
+  {
+    "Name": "Keerubalami Ponnudi",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/IND_044.jpg",
+    "Age": "36",
+    "Country": "IN",
+    "Interest": "Writing",
+    "Net Worth": "$177,052.80"
+  },
+  {
+    "Name": "Saint Sahana",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/i_023.jpg",
+    "Age": "37",
+    "Country": "IN",
+    "Interest": "Hiking",
+    "Net Worth": "$314,136.00"
+  },
+  {
+    "Name": "Munish Thabur",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/m_020.jpg",
+    "Age": "28",
+    "Country": "MY",
+    "Interest": "Hiking",
+    "Net Worth": "$171,758.40"
+  },
+  {
+    "Name": "Yogesh Balakrishnamur",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/IND_011.jpg",
+    "Age": "21",
+    "Country": "IN",
+    "Interest": "Painting",
+    "Net Worth": "$238,915.20"
+  },
+  {
+    "Name": "Sharmilla Mogan",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/IND_049.jpg",
+    "Age": "19",
+    "Country": "IN",
+    "Interest": "Traveling",
+    "Net Worth": "$173,740.80"
+  },
+  {
+    "Name": "Janesree Gunasegern",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/IND_045.jpg",
+    "Age": "32",
+    "Country": "IN",
+    "Interest": "Painting",
+    "Net Worth": "$187,512.00"
+  },
+  {
+    "Name": "Preya Nadarasa",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/i_018.jpg",
+    "Age": "26",
+    "Country": "IN",
+    "Interest": "Cooking",
+    "Net Worth": "$247,233.60"
+  },
+  {
+    "Name": "Uma Shamini",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/i_028.jpg",
+    "Age": "24",
+    "Country": "IN",
+    "Interest": "Cooking",
+    "Net Worth": "$201,451.20"
+  },
+  {
+    "Name": "Geetha Kumar",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/IND_053.jpg",
+    "Age": "18",
+    "Country": "IN",
+    "Interest": "Traveling",
+    "Net Worth": "$164,433.60"
+  },
+  {
+    "Name": "Jeeva Rajadran",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/IND_031.jpg",
+    "Age": "38",
+    "Country": "IN",
+    "Interest": "Cooking",
+    "Net Worth": "$192,969.60"
+  },
+  {
+    "Name": "Nadaraajan Perumal",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/IND_008.jpg",
+    "Age": "25",
+    "Country": "IN",
+    "Interest": "Writing",
+    "Net Worth": "$165,604.80"
+  },
+  {
+    "Name": "Shri Gobaradhan",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/IND_039.jpg",
+    "Age": "39",
+    "Country": "IN",
+    "Interest": "Writing",
+    "Net Worth": "$218,740.80"
+  },
+  {
+    "Name": "Satees Muniady",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/IND_034.jpg",
+    "Age": "44",
+    "Country": "IN",
+    "Interest": "Gardening",
+    "Net Worth": "$191,673.60"
+  },
+  {
+    "Name": "Nur Syazwani Nabilah Ibrahim",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/m_190.jpg",
+    "Age": "33",
+    "Country": "MY",
+    "Interest": "Painting",
+    "Net Worth": "$210,110.40"
+  },
+  {
+    "Name": "Geetha Davethas",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/IND_042.jpg",
+    "Age": "24",
+    "Country": "IN",
+    "Interest": "Hiking",
+    "Net Worth": "$199,689.60"
+  },
+  {
+    "Name": "Pricella Ance",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/G_027.jpg",
+    "Age": "34",
+    "Country": "US",
+    "Interest": "Cooking",
+    "Net Worth": "$141,801.60"
+  },
+  {
+    "Name": "Kumarran Thanrayan",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/i_013.jpg",
+    "Age": "28",
+    "Country": "IN",
+    "Interest": "Cooking",
+    "Net Worth": "$128,222.40"
+  },
+  {
+    "Name": "Tineswary Pannaparon",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/i_002.jpg",
+    "Age": "21",
+    "Country": "IN",
+    "Interest": "Painting",
+    "Net Worth": "$94,281.60"
+  },
+  {
+    "Name": "Vinothyni Anannthi",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/IND_015.jpg",
+    "Age": "22",
+    "Country": "IN",
+    "Interest": "Painting",
+    "Net Worth": "$357,902.40"
+  },
+  {
+    "Name": "Pilva Bhatia",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/IND_013.jpg",
+    "Age": "29",
+    "Country": "IN",
+    "Interest": "Painting",
+    "Net Worth": "$213,988.80"
+  },
+  {
+    "Name": "Wan Nahijah Mohamad",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/m_027.jpg",
+    "Age": "24",
+    "Country": "MY",
+    "Interest": "Painting",
+    "Net Worth": "$183,710.40"
+  },
+  {
+    "Name": "Rahimi Muhamad",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/m_066.jpg",
+    "Age": "30",
+    "Country": "MY",
+    "Interest": "Writing",
+    "Net Worth": "$191,452.80"
+  },
+  {
+    "Name": "Shuhada Shahira",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/m_090.jpg",
+    "Age": "19",
+    "Country": "MY",
+    "Interest": "Traveling",
+    "Net Worth": "$258,057.60"
+  },
+  {
+    "Name": "Yana Husin",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/mus_202.jpg",
+    "Age": "49",
+    "Country": "MY",
+    "Interest": "Gardening",
+    "Net Worth": "$129,523.20"
+  },
+  {
+    "Name": "Yusri Shafie",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/mus_163.jpg",
+    "Age": "28",
+    "Country": "MY",
+    "Interest": "Hiking",
+    "Net Worth": "$166,843.20"
+  },
+  {
+    "Name": "Nurul Shafiza Mat Isa",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/mus_166.jpg",
+    "Age": "32",
+    "Country": "MY",
+    "Interest": "Painting",
+    "Net Worth": "$257,068.80"
+  },
+  {
+    "Name": "Aidan Ohara",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/mus_194.jpg",
+    "Age": "27",
+    "Country": "MY",
+    "Interest": "Hiking",
+    "Net Worth": "$260,635.20"
+  },
+  {
+    "Name": "Ella Berry",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/CA0128.jpg",
+    "Age": "35",
+    "Country": "US",
+    "Interest": "Cooking",
+    "Net Worth": "$131,736.00"
+  },
+  {
+    "Name": "Noor Atheerah Zulkipli",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/mus_178.jpg",
+    "Age": "31",
+    "Country": "MY",
+    "Interest": "Cooking",
+    "Net Worth": "$154,046.40"
+  },
+  {
+    "Name": "Ikmal Zakaria",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/m_185.jpg",
+    "Age": "32",
+    "Country": "MY",
+    "Interest": "Painting",
+    "Net Worth": "$197,380.80"
+  },
+  {
+    "Name": "Syed Azuwan Syed Helmi",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/p_047.jpg",
+    "Age": "34",
+    "Country": "MY",
+    "Interest": "Writing",
+    "Net Worth": "$163,905.60"
+  },
+  {
+    "Name": "Haziq Zamri",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/m_187.jpg",
+    "Age": "27",
+    "Country": "MY",
+    "Interest": "Painting",
+    "Net Worth": "$99,048.00"
+  },
+  {
+    "Name": "Nor Fazila",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/mus_056.jpg",
+    "Age": "29",
+    "Country": "MY",
+    "Interest": "Cooking",
+    "Net Worth": "$189,384.00"
+  },
+  {
+    "Name": "Muhd Ruzhan",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/m_116.jpg",
+    "Age": "28",
+    "Country": "MY",
+    "Interest": "Traveling",
+    "Net Worth": "$232,641.60"
+  },
+  {
+    "Name": "Azhar Masli",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/m_154.jpg",
+    "Age": "29",
+    "Country": "MY",
+    "Interest": "Writing",
+    "Net Worth": "$212,256.00"
+  },
+  {
+    "Name": "Mohd Riduan Hamin",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/m_120.jpg",
+    "Age": "40",
+    "Country": "MY",
+    "Interest": "Gardening",
+    "Net Worth": "$235,483.20"
+  },
+  {
+    "Name": "Freya Rogers",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/CA0274.jpg",
+    "Age": "30",
+    "Country": "US",
+    "Interest": "Painting",
+    "Net Worth": "$240,427.20"
+  },
+  {
+    "Name": "Harris Azman",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/m_181.jpg",
+    "Age": "38",
+    "Country": "MY",
+    "Interest": "Writing",
+    "Net Worth": "$232,377.60"
+  },
+  {
+    "Name": "Muhammad Adli Azri",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/th_337.jpg",
+    "Age": "24",
+    "Country": "MY",
+    "Interest": "Painting",
+    "Net Worth": "$280,248.00"
+  },
+  {
+    "Name": "Jafri Mohd",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/m_177.jpg",
+    "Age": "29",
+    "Country": "MY",
+    "Interest": "Hiking",
+    "Net Worth": "$314,107.20"
+  },
+  {
+    "Name": "Aten Zulkifly",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/mus_019.jpg",
+    "Age": "30",
+    "Country": "MY",
+    "Interest": "Writing",
+    "Net Worth": "$237,307.20"
+  },
+  {
+    "Name": "Eyqa Hassan",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/mus_045.jpg",
+    "Age": "25",
+    "Country": "MY",
+    "Interest": "Painting",
+    "Net Worth": "$112,651.20"
+  },
+  {
+    "Name": "Muhd Yazid",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/m_018.jpg",
+    "Age": "30",
+    "Country": "MY",
+    "Interest": "Hiking",
+    "Net Worth": "$76,492.80"
+  },
+  {
+    "Name": "Muhammad Syafiq Suhaimi",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/p_027.jpg",
+    "Age": "39",
+    "Country": "MY",
+    "Interest": "Writing",
+    "Net Worth": "$341,563.20"
+  },
+  {
+    "Name": "Nashrul Amin",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/p_014.jpg",
+    "Age": "62",
+    "Country": "MY",
+    "Interest": "Gardening",
+    "Net Worth": "$154,632.00"
+  },
+  {
+    "Name": "Nur Syahirah",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/mus_064.jpg",
+    "Age": "21",
+    "Country": "MY",
+    "Interest": "Painting",
+    "Net Worth": "$148,492.80"
+  },
+  {
+    "Name": "Syamimy Ghani",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/mus_114.jpg",
+    "Age": "20",
+    "Country": "MY",
+    "Interest": "Traveling",
+    "Net Worth": "$200,347.20"
+  },
+  {
+    "Name": "Shahir Sukri",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/p_028.jpg",
+    "Age": "34",
+    "Country": "MY",
+    "Interest": "Painting",
+    "Net Worth": "$282,700.80"
+  },
+  {
+    "Name": "Amierul Miyul",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/p_030.jpg",
+    "Age": "48",
+    "Country": "MY",
+    "Interest": "Gardening",
+    "Net Worth": "$321,004.80"
+  },
+  {
+    "Name": "Nara Sharkirra",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/mus_090.jpg",
+    "Age": "23",
+    "Country": "MY",
+    "Interest": "Writing",
+    "Net Worth": "$338,539.20"
+  },
+  {
+    "Name": "Muhamad Hafiz Bob",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/p_022.jpg",
+    "Age": "59",
+    "Country": "MY",
+    "Interest": "Gardening",
+    "Net Worth": "$240,312.00"
+  },
+  {
+    "Name": "Mohd Shahril",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/p_023.jpg",
+    "Age": "48",
+    "Country": "MY",
+    "Interest": "Gardening",
+    "Net Worth": "$252,984.00"
+  },
+  {
+    "Name": "Eyka Abdul Ghani",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/mus_091.jpg",
+    "Age": "23",
+    "Country": "MY",
+    "Interest": "Traveling",
+    "Net Worth": "$233,726.40"
+  },
+  {
+    "Name": "Mohamad Khuzairy",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/m_167.jpg",
+    "Age": "33",
+    "Country": "MY",
+    "Interest": "Cooking",
+    "Net Worth": "$118,766.40"
+  },
+  {
+    "Name": "Nana Hanna",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/m_179.jpg",
+    "Age": "20",
+    "Country": "MY",
+    "Interest": "Traveling",
+    "Net Worth": "$226,276.80"
+  },
+  {
+    "Name": "Mohd Hanafi Azhar ",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/p_034.jpg",
+    "Age": "62",
+    "Country": "MY",
+    "Interest": "Gardening",
+    "Net Worth": "$332,568.00"
+  },
+  {
+    "Name": "Zenki Afra",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/p_045.jpg",
+    "Age": "60",
+    "Country": "MY",
+    "Interest": "Gardening",
+    "Net Worth": "$168,600.00"
+  },
+  {
+    "Name": "Mohamad Hairie",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/p_050.jpg",
+    "Age": "48",
+    "Country": "MY",
+    "Interest": "Gardening",
+    "Net Worth": "$300,566.40"
+  },
+  {
+    "Name": "Mohd Syafiq",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/m_168.jpg",
+    "Age": "57",
+    "Country": "MY",
+    "Interest": "Gardening",
+    "Net Worth": "$215,164.80"
+  },
+  {
+    "Name": "Muhammad Ashri",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/m_165.jpg",
+    "Age": "27",
+    "Country": "MY",
+    "Interest": "Traveling",
+    "Net Worth": "$206,568.00"
+  },
+  {
+    "Name": "Yusni Asnida",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/mus_024.jpg",
+    "Age": "20",
+    "Country": "MY",
+    "Interest": "Traveling",
+    "Net Worth": "$167,016.00"
+  },
+  {
+    "Name": "Shaheera Mohd Aniq",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/m_049.jpg",
+    "Age": "19",
+    "Country": "MY",
+    "Interest": "Traveling",
+    "Net Worth": "$248,865.60"
+  },
+  {
+    "Name": "Nursyamimi Atiqah ",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/m_103.jpg",
+    "Age": "27",
+    "Country": "MY",
+    "Interest": "Cooking",
+    "Net Worth": "$288,734.40"
+  },
+  {
+    "Name": "Catherine Wheeler",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/G_038.jpg",
+    "Age": "23",
+    "Country": "US",
+    "Interest": "Hiking",
+    "Net Worth": "$53,697.60"
+  },
+  {
+    "Name": "Azizah Mahzan",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/m_110.jpg",
+    "Age": "28",
+    "Country": "MY",
+    "Interest": "Hiking",
+    "Net Worth": "$210,508.80"
+  },
+  {
+    "Name": "Mohd Azmi",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/m_149.jpg",
+    "Age": "30",
+    "Country": "MY",
+    "Interest": "Traveling",
+    "Net Worth": "$212,006.40"
+  },
+  {
+    "Name": "Anastasia Morrison",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/G_035.jpg",
+    "Age": "33",
+    "Country": "US",
+    "Interest": "Hiking",
+    "Net Worth": "$71,625.60"
+  },
+  {
+    "Name": "Razak Muhaidin",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/ph_151.jpg",
+    "Age": "40",
+    "Country": "MY",
+    "Interest": "Gardening",
+    "Net Worth": "$259,934.40"
+  },
+  {
+    "Name": "Helena Tillsley",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/o_014.jpg",
+    "Age": "45",
+    "Country": "US",
+    "Interest": "Gardening",
+    "Net Worth": "$192,369.60"
+  },
+  {
+    "Name": "Ryder Fletcher",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/G_057.jpg",
+    "Age": "50",
+    "Country": "US",
+    "Interest": "Gardening",
+    "Net Worth": "$257,323.20"
+  },
+  {
+    "Name": "Sara Fessenden",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/G_058.jpg",
+    "Age": "38",
+    "Country": "US",
+    "Interest": "Writing",
+    "Net Worth": "$145,972.80"
+  },
+  {
+    "Name": "Jeffrey Ewing",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/J_011.jpg",
+    "Age": "49",
+    "Country": "CN",
+    "Interest": "Gardening",
+    "Net Worth": "$254,068.80"
+  },
+  {
+    "Name": "Dawson Hoffman",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/CA0162.jpg",
+    "Age": "38",
+    "Country": "US",
+    "Interest": "Cooking",
+    "Net Worth": "$181,804.80"
+  },
+  {
+    "Name": "Jonne Macdonald",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/G_052.jpg",
+    "Age": "36",
+    "Country": "US",
+    "Interest": "Hiking",
+    "Net Worth": "$212,760.00"
+  },
+  {
+    "Name": "Pierre Henry",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/CA0267.jpg",
+    "Age": "52",
+    "Country": "US",
+    "Interest": "Gardening",
+    "Net Worth": "$127,704.00"
+  },
+  {
+    "Name": "Collen McClintock",
+    "Photo": "https://static.kasatria.com/pivot-img/photo/G_039.jpg",
+    "Age": "51",
+    "Country": "US",
+    "Interest": "Gardening",
+    "Net Worth": "$261,883.20"
+  }
+]
