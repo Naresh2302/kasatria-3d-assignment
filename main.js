@@ -1,6 +1,6 @@
 // main.js
 // ---------------- Google Sheets config ----------------
-const API_KEY = "AIzaSyBqtzCfxsPUzoGEn0zIobwuNbuwvUOVf28"; 
+const API_KEY = "AIzaSyBqtzCfxsPUzoGEn0zIobwuNbuwvUOVf28";
 const SPREADSHEET_ID = "1v-ioTC98S4aERKPYd3tstJaElaceASz8d-3wdjnMcKk";
 const SHEET_RANGE = "Data Template!A2:F"; // Name, Photo, Age, Country, Interest, Net Worth
 
@@ -36,6 +36,7 @@ window.handleCredentialResponse = function (response) {
       <button id="btn-sphere">SPHERE</button>
       <button id="btn-helix">HELIX</button>
       <button id="btn-grid">GRID</button>
+      <button id="btn-pyramid">PYRAMID</button>
     </div>
   `;
 
@@ -46,7 +47,8 @@ window.handleCredentialResponse = function (response) {
 // ---------------- Three.js globals ----------------
 let camera, scene, renderer;
 const objects = [];
-const targets = { table: [], sphere: [], helix: [], grid: [] };
+// include pyramid in targets
+const targets = { table: [], sphere: [], helix: [], grid: [], pyramid: [] };
 let dummyData = []; // filled from Google Sheets
 let controls;       // Trackball controls
 
@@ -54,8 +56,7 @@ let controls;       // Trackball controls
 async function loadDataAndStart() {
   try {
     const encodedRange = encodeURIComponent(SHEET_RANGE);
-    const url = `https://sheets.googleapis.com/v4/spreadsheets/1v-ioTC98S4aERKPYd3tstJaElaceASz8d-3wdjnMcKk/values/Data%20Template!A2:F?key=AIzaSyBqtzCfxsPUzoGEn0zIobwuNbuwvUOVf28
-`;
+    const url = `https://sheets.googleapis.com/v4/spreadsheets/${SPREADSHEET_ID}/values/${encodedRange}?key=${API_KEY}`;
 
     const res = await fetch(url);
     if (!res.ok) {
@@ -84,6 +85,16 @@ async function loadDataAndStart() {
   }
 }
 
+// Estimate how many pyramid levels we need so that
+// 1 (top) + 4*(1 + 2 + ... + L) >= count
+function computePyramidLevels(count) {
+  let L = 1;
+  while (1 + 2 * L * (L + 1) < count) {
+    L++;
+  }
+  return L;
+}
+
 // ---------------- Scene initialisation ----------------
 function initThreeScene() {
   const container = document.getElementById("three-container");
@@ -107,6 +118,7 @@ function initThreeScene() {
   targets.sphere.length = 0;
   targets.helix.length = 0;
   targets.grid.length = 0;
+  targets.pyramid.length = 0;
 
   // ---------- Create CSS3D tiles + TABLE layout targets ----------
   const TABLE_COLS = 20;
@@ -210,11 +222,11 @@ function initThreeScene() {
     const object = new THREE.Object3D();
 
     const strand = i % 2; // 0 or 1
-    const indexOnStrand = Math.floor(i / 2);
+    theIndexOnStrand = Math.floor(i / 2);
 
     const theta =
-      indexOnStrand * 0.35 + (strand === 0 ? 0 : Math.PI); // 180° phase shift
-    const y = -(indexOnStrand * 120) + 600 + Y_OFFSET;
+      theIndexOnStrand * 0.35 + (strand === 0 ? 0 : Math.PI); // 180° phase shift
+    const y = -(theIndexOnStrand * 120) + 600 + Y_OFFSET;
 
     object.position.setFromCylindricalCoords(900, theta, y);
 
@@ -252,6 +264,88 @@ function initThreeScene() {
     targets.grid.push(object);
   }
 
+  // ---------- PYRAMID layout: 4 faces (tetrahedron-like) ----------
+  targets.pyramid.length = 0;
+
+  const levels = computePyramidLevels(l);   // number of vertical levels
+  const LEVEL_HEIGHT = 150;                 // vertical distance between levels
+  const RADIUS_STEP  = 260;                 // how far each level is from centre
+
+  // We want the whole pyramid centred around this Y:
+  const PYRAMID_CENTER_Y = Y_OFFSET + 80;
+
+  // Compute the Y of the *bottom* level so that the pyramid is centred
+  const baseY = PYRAMID_CENTER_Y - (levels * LEVEL_HEIGHT) / 2;
+
+  let idx = 0;
+
+  // ---- Top of the pyramid (1 element) ----
+  if (idx < l) {
+    const topY = baseY + levels * LEVEL_HEIGHT;
+    const topObj = new THREE.Object3D();
+    topObj.position.set(0, topY, 0);
+    topObj.lookAt(new THREE.Vector3(0, PYRAMID_CENTER_Y, 0)); // face down-ish
+    targets.pyramid.push(topObj);
+    idx++;
+  }
+
+  // ---- Lower levels: 4 faces around the centre ----
+  for (let lvl = 1; lvl <= levels && idx < l; lvl++) {
+    const itemsPerEdge = lvl;                        // tiles along each edge
+    const levelY = baseY + (levels - lvl) * LEVEL_HEIGHT;
+ // from bottom upwards
+    const radius = lvl * RADIUS_STEP;
+
+    // 4 faces: front, right, back, left (0, 90, 180, 270 deg)
+    for (let face = 0; face < 4 && idx < l; face++) {
+      const angle = face * (Math.PI / 2);  // 0, π/2, π, 3π/2
+
+      // direction from centre to middle of this face
+      const dirX = Math.cos(angle);
+      const dirZ = Math.sin(angle);
+
+      // centre of the face on this level
+      const centerX = dirX * radius;
+      const centerZ = dirZ * radius;
+
+      // vector along the edge (perpendicular to dir)
+      const edgeX = -dirZ;
+      const edgeZ = dirX;
+
+      // place items along the edge, centred
+      for (let iEdge = 0; iEdge < itemsPerEdge && idx < l; iEdge++, idx++) {
+        const t = (iEdge - (itemsPerEdge - 1) / 2) * 160; // spacing
+
+        const obj = new THREE.Object3D();
+        obj.position.x = centerX + edgeX * t;
+        obj.position.y = levelY;
+        obj.position.z = centerZ + edgeZ * t;
+
+        // Make the tile look slightly outward from the centre
+        const lookTarget = new THREE.Vector3(
+          dirX * (radius * 2),
+          PYRAMID_CENTER_Y,
+          dirZ * (radius * 2)
+        );
+        obj.lookAt(lookTarget);
+
+        targets.pyramid.push(obj);
+      }
+    }
+  }
+
+  // Leftover objects (if any) near the centre of the pyramid
+  for (let i = idx; i < l; i++) {
+    const object = new THREE.Object3D();
+    object.position.set(
+      (Math.random() - 0.5) * 400,
+      PYRAMID_CENTER_Y + (Math.random() - 0.5) * 200,
+      (Math.random() - 0.5) * 400
+    );
+    object.lookAt(new THREE.Vector3(0, PYRAMID_CENTER_Y, 0));
+    targets.pyramid[i] = object;
+  }
+
   // ---------- Renderer & controls ----------
   renderer = new THREE.CSS3DRenderer();
   renderer.setSize(window.innerWidth, window.innerHeight);
@@ -283,6 +377,9 @@ function initThreeScene() {
   document
     .getElementById("btn-grid")
     .addEventListener("click", () => transform(targets.grid, 2000));
+  document
+    .getElementById("btn-pyramid")
+    .addEventListener("click", () => transform(targets.pyramid, 2000));
 
   window.addEventListener("resize", onWindowResize);
 
